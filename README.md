@@ -10,9 +10,6 @@ The purpose of the analysis is to determine the temperature trends before openin
 * The mean and median for June is around 75F and for December is around 71F. We can safely conclude that the weather is mostly pleasant all year long.
 * The data points is showing us it's going to be sustainable to open up surf and ice cream shop as in Hawaii the weather temperature is attracking tourist all year long.
 
-![June Temperature](https://github.com/Gerry84/surfs_up/blob/master/Temperatures%20June.PNG)
-
-![December Temperature](https://github.com/Gerry84/surfs_up/blob/master/Temperatures%20December.PNG)
 
 ## Summary
 Overall, it's a good business plan to open up a surf and ice cream shop in Hawaii due to the temperature is pleasant for all seasons.
